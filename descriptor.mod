@@ -1,0 +1,9 @@
+version="1.9.2.1"
+tags={
+	"Map"
+	"Gameplay"
+	"Graphics"
+	"Balance"
+}
+name="dynasty_map_mode"
+supported_version="1.9.2.1"
